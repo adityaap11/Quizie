@@ -117,10 +117,10 @@ Quizie/
 ```
 
 ## Login Window
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/f7239071-41a4-4996-91f3-9601d6ea43d1" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f7239071-41a4-4996-91f3-9601d6ea43d1" />
 
 ## Admin-accessible Question Set
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e5ffee49-5149-46c9-bea2-2c43f5cd5972" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e5ffee49-5149-46c9-bea2-2c43f5cd5972" />
 
 
 *The tree highlights key verified files; other frontend assets/pages may also be present.*
