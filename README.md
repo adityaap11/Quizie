@@ -19,6 +19,13 @@ A full-stack Online Quiz Application built with Node.js, Express, MongoDB, and v
 - Admin-only view of all quiz results
 - RESTful APIs with JSON payloads
 
+## Login Panel
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/004c3b2d-b6df-4580-ac79-9cee63058e55" />
+
+## Admin Panel
+<img width="916" height="902" alt="image" src="https://github.com/user-attachments/assets/6d31c782-2b9d-44b9-b1c5-45a832f844ed" />
+
+
 ## Installation
 
 1. Clone the repository and open the `OnlineQuizApp/backend` folder.
