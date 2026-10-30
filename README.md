@@ -116,6 +116,9 @@ Quizie/
 └── README.md
 ```
 
+*The tree highlights key verified files; other frontend assets/pages may also be present.*
+
+
 ## Login Window
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f7239071-41a4-4996-91f3-9601d6ea43d1" />
 
@@ -123,7 +126,6 @@ Quizie/
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e5ffee49-5149-46c9-bea2-2c43f5cd5972" />
 
 
-*The tree highlights key verified files; other frontend assets/pages may also be present.*
 
 ## 🔄 Application workflow
 
